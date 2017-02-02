@@ -1,6 +1,6 @@
 ## Sarah H.Dot Education Intern @ Gray Area Foundation For the Arts
 
-#Thursday (Heading 1)
+# Thursday Feb 2, 2017
 
 ## Morning
 - Took Bart from Lake Merrit to 24th Street
@@ -12,9 +12,9 @@
 - Feed C.Moon kibble
 - Meeting at 3pm
 
-##Evening 
-
-[Link](http://openprocessing.org/) and 
+## Evening 
+Processing.org: 
+[Link](http://openprocessing.org/) 
 
 ![Image] (http://68.media.tumblr.com/e621abb39b0b99286e8fd76acd6b8385/tumblr_inline_msdpiunz081qz4rgp.jpg)
 
