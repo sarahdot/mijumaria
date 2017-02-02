@@ -1,5 +1,7 @@
 ## Sarah H.Dot Education Intern @ Gray Area Foundation For the Arts
-###Thursday (Heading 1)
+
+#Thursday (Heading 1)
+
 ## Morning
 - Took Bart from Lake Merrit to 24th Street
 - Checked in with Matt on phone
