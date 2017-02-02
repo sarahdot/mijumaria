@@ -16,7 +16,7 @@
 Processing.org: 
 [Link](http://openprocessing.org/) 
 
-![Image] (src http://68.media.tumblr.com/e621abb39b0b99286e8fd76acd6b8385/tumblr_inline_msdpiunz081qz4rgp.jpg)
+![Image](http://68.media.tumblr.com/e621abb39b0b99286e8fd76acd6b8385/tumblr_inline_msdpiunz081qz4rgp.jpg)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
